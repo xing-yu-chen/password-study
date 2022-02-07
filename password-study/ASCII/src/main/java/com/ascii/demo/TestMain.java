@@ -9,6 +9,6 @@ package com.ascii.demo;
 public class TestMain {
     public static void main(String[] args) {
         char a =  'A';
-        
+       
     }
 }
